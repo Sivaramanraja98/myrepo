@@ -1,0 +1,25 @@
+.container{
+    max-width: 400px;
+    margin: 100px auto ;
+    padding: 20px;
+    background-color: rgb(199, 229, 255);;
+    box-shadow: 0px 0px 10px 5px rgb(7, 7, 3);
+}
+h1{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+    padding: 5px;
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+    margin-bottom: 15px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
